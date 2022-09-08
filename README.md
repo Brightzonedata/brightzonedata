@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python,Tableau,Unix**
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/mahboob-alam-764016213/](linkedin.com/in/mahboob-alam-764016213/)
+- 👨‍💻 All of my projects are available at [mahboob-alam-764016213](linkedin.com/in/mahboob-alam-764016213/)
 
 - 💬 Ask me about **SQL,PL/SQL,Dynamic 365 ERP,ORACLE,SQL SERVER,IBMDB2,MYSQL**
 
